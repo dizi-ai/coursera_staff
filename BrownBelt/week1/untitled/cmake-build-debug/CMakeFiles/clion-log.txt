@@ -1,0 +1,19 @@
+"C:\Program Files (x86)\CLION\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\COURSERA\BrownBelt\week1\untitled
+CMake Error at CMakeLists.txt:4 (find_package):
+  By not providing "FindTd.cmake" in CMAKE_MODULE_PATH this project has asked
+  CMake to find a package configuration file provided by "Td", but CMake did
+  not find one.
+
+  Could not find a package configuration file provided by "Td" (requested
+  version 1.7.8) with any of the following names:
+
+    TdConfig.cmake
+    td-config.cmake
+
+  Add the installation prefix of "Td" to CMAKE_PREFIX_PATH or set "Td_DIR" to
+  a directory containing one of the above files.  If "Td" provides a separate
+  development package or SDK, be sure it has been installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/COURSERA/BrownBelt/week1/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log".

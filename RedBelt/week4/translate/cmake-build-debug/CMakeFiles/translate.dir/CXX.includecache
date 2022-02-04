@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/RedBelt/week4/translate/main.cpp
+test_runner.h
+C:/COURSERA/RedBelt/week4/translate/test_runner.h
+string
+-
+deque
+-
+map
+-
+algorithm
+-
+
+C:/COURSERA/RedBelt/week4/translate/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

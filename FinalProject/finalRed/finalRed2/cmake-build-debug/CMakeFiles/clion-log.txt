@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\CLION\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\COURSERA\FinalProject\finalRed\finalRed2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/COURSERA/FinalProject/finalRed/finalRed2/cmake-build-debug

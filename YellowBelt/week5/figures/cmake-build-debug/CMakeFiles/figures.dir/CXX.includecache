@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/YellowBelt/week5/figures/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+memory
+-
+vector
+-
+iomanip
+-
+cmath
+-
+

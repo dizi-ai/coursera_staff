@@ -1,0 +1,3 @@
+C:/COURSERA/YellowBelt/regions/cmake-build-debug/CMakeFiles/regions.dir
+C:/COURSERA/YellowBelt/regions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/YellowBelt/regions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

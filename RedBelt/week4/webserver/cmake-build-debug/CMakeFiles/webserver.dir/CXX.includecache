@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/RedBelt/week4/webserver/http_request.h
+string_view
+-
+
+C:/COURSERA/RedBelt/week4/webserver/stats.cpp
+stats.h
+C:/COURSERA/RedBelt/week4/webserver/stats.h
+
+C:/COURSERA/RedBelt/week4/webserver/stats.h
+http_request.h
+C:/COURSERA/RedBelt/week4/webserver/http_request.h
+string_view
+-
+map
+-
+set
+-
+

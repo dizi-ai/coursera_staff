@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/RedBelt/week1/maxEl/main.cpp
+test_runner.h
+C:/COURSERA/RedBelt/week1/maxEl/test_runner.h
+string
+-
+vector
+-
+list
+-
+forward_list
+-
+numeric
+-
+iterator
+-
+
+C:/COURSERA/RedBelt/week1/maxEl/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/RedBelt/week5/mergesort/main.cpp
+test_runner.h
+C:/COURSERA/RedBelt/week5/mergesort/test_runner.h
+algorithm
+-
+memory
+-
+vector
+-
+iterator
+-
+timer.h
+C:/COURSERA/RedBelt/week5/mergesort/timer.h
+
+C:/COURSERA/RedBelt/week5/mergesort/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+
+C:/COURSERA/RedBelt/week5/mergesort/timer.h
+chrono
+-
+iostream
+-
+string
+-
+

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/COURSERA/RedBelt/week1/tickets/cmake-build-debug/CMakeFiles/tickets.dir/embed.manifest"

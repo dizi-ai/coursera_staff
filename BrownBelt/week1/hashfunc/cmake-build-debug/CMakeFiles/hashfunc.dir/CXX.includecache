@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/BrownBelt/week1/hashfunc/main.cpp
+test_runner.h
+C:/COURSERA/BrownBelt/week1/hashfunc/test_runner.h
+forward_list
+-
+iterator
+-
+algorithm
+-
+
+C:/COURSERA/BrownBelt/week1/hashfunc/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

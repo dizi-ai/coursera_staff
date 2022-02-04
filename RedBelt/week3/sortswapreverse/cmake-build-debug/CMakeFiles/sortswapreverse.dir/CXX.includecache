@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/RedBelt/week3/sortswapreverse/main.cpp
+test_runner.h
+C:/COURSERA/RedBelt/week3/sortswapreverse/test_runner.h
+algorithm
+-
+numeric
+-
+string
+-
+
+C:/COURSERA/RedBelt/week3/sortswapreverse/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

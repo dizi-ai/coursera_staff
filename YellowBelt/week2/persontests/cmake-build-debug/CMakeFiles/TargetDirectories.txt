@@ -1,0 +1,3 @@
+C:/COURSERA/YellowBelt/week2/persontests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/COURSERA/YellowBelt/week2/persontests/cmake-build-debug/CMakeFiles/persontests.dir
+C:/COURSERA/YellowBelt/week2/persontests/cmake-build-debug/CMakeFiles/edit_cache.dir

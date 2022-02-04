@@ -1,0 +1,3 @@
+C:/projects/cmake-build-debug/CMakeFiles/projects.dir
+C:/projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

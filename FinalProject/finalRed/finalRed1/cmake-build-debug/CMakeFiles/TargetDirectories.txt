@@ -1,0 +1,3 @@
+C:/COURSERA/FinalProject/finalRed/cmake-build-debug/CMakeFiles/finalRed.dir
+C:/COURSERA/FinalProject/finalRed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/FinalProject/finalRed/cmake-build-debug/CMakeFiles/rebuild_cache.dir

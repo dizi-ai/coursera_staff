@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/RedBelt/week2/EXPRESS/main.cpp
+algorithm
+-
+cmath
+-
+iostream
+-
+map
+-
+string
+-
+vector
+-
+set
+-
+

@@ -1,0 +1,3 @@
+C:/COURSERA/YellowBelt/week3/phone/cmake-build-debug/CMakeFiles/phone.dir
+C:/COURSERA/YellowBelt/week3/phone/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/YellowBelt/week3/phone/cmake-build-debug/CMakeFiles/rebuild_cache.dir

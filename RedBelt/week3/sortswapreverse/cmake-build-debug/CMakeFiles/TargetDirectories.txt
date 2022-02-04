@@ -1,0 +1,3 @@
+C:/COURSERA/RedBelt/week3/sortswapreverse/cmake-build-debug/CMakeFiles/sortswapreverse.dir
+C:/COURSERA/RedBelt/week3/sortswapreverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/RedBelt/week3/sortswapreverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/COURSERA/RedBelt/week2/lerner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/COURSERA/RedBelt/week2/lerner/cmake-build-debug/CMakeFiles/lerner.dir
+C:/COURSERA/RedBelt/week2/lerner/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:/COURSERA/week3/CLASSES/cmake-build-debug/CMakeFiles/CLASSES.dir
+C:/COURSERA/week3/CLASSES/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/week3/CLASSES/cmake-build-debug/CMakeFiles/rebuild_cache.dir

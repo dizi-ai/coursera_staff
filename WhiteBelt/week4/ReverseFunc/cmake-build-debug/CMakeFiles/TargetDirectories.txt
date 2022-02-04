@@ -1,0 +1,3 @@
+C:/COURSERA/week4/ReverseFunc/cmake-build-debug/CMakeFiles/ReverseFunc.dir
+C:/COURSERA/week4/ReverseFunc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/week4/ReverseFunc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

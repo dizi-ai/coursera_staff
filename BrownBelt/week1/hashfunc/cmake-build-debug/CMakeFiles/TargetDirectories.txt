@@ -1,0 +1,3 @@
+C:/COURSERA/BrownBelt/week1/hashfunc/cmake-build-debug/CMakeFiles/hashfunc.dir
+C:/COURSERA/BrownBelt/week1/hashfunc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/BrownBelt/week1/hashfunc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

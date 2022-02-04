@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/COURSERA/YellowBelt/week3/busstopdec/bus_manager.cpp
+bus_manager.h
+C:/COURSERA/YellowBelt/week3/busstopdec/bus_manager.h
+
+C:/COURSERA/YellowBelt/week3/busstopdec/bus_manager.h
+responses.h
+C:/COURSERA/YellowBelt/week3/busstopdec/responses.h
+iostream
+-
+vector
+-
+map
+-
+
+C:/COURSERA/YellowBelt/week3/busstopdec/responses.h
+vector
+-
+string
+-
+map
+-
+

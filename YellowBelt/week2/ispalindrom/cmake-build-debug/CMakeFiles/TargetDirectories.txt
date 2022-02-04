@@ -1,0 +1,3 @@
+C:/COURSERA/YellowBelt/week2/ispalindrom/cmake-build-debug/CMakeFiles/ispalindrom.dir
+C:/COURSERA/YellowBelt/week2/ispalindrom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/YellowBelt/week2/ispalindrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

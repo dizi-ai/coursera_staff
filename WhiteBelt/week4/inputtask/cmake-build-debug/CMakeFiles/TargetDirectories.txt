@@ -1,0 +1,3 @@
+C:/COURSERA/week4/inputtask/cmake-build-debug/CMakeFiles/inputtask.dir
+C:/COURSERA/week4/inputtask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/week4/inputtask/cmake-build-debug/CMakeFiles/rebuild_cache.dir

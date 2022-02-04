@@ -1,0 +1,3 @@
+C:/COURSERA/YellowBelt/week4/vectorpart/cmake-build-debug/CMakeFiles/vectorpart.dir
+C:/COURSERA/YellowBelt/week4/vectorpart/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/YellowBelt/week4/vectorpart/cmake-build-debug/CMakeFiles/rebuild_cache.dir

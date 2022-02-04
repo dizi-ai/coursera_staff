@@ -1,0 +1,3 @@
+C:/BUSSTOP3/cmake-build-debug/CMakeFiles/BUSSTOP3.dir
+C:/BUSSTOP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/BUSSTOP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

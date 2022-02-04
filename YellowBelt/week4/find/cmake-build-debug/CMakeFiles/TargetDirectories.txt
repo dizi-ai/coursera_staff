@@ -1,0 +1,3 @@
+C:/COURSERA/YellowBelt/week4/find/cmake-build-debug/CMakeFiles/ttt.dir
+C:/COURSERA/YellowBelt/week4/find/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COURSERA/YellowBelt/week4/find/cmake-build-debug/CMakeFiles/rebuild_cache.dir
